@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator For PPI</string>
+    <string name="width">宽</string>
+    <string name="height">高</string>
+    <string name="size">尺寸</string>
+    <string name="calculate">计算</string>
+</resources>
